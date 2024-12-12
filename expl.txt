@@ -1,0 +1,26 @@
+package.json = gestionar las dependencias y la configuración del proyecto.
+
+package-lock.json = Este archivo contiene información detallada sobre las versiones exactas de las dependencias y sus subdependencias que se han instalado en el proyecto.
+
+embed = tipo de mensaje que permite presentar información de manera más visual y estructurada en comparacion con un mensaje de texto simple.
+
+mongoose = Elegant MongoDB object modeling for Node.js
+
+intent = forma de especificar que tipo de eventos tu bot quiere recibir. 
+
+Discord tiene muchos eventos que pueden ocurrir en un servidor, como mensajes enviados, 
+miembros que se unen, reacciones a mensajes, etc. 
+Sin embargo, no todos los bots necesitan escuchar todos esos eventos. 
+Por eso, Discord permite a los desarrolladores seleccionar solo los eventos que son relevantes para su bot.
+
+¿Por qué usar Intents?
+
+Eficiencia: Al limitar los eventos que tu bot escucha, reduces la cantidad de datos que tu bot tiene que procesar. 
+Esto puede hacer que tu bot sea más eficiente y rápido.
+
+Privacidad: Algunos eventos contienen información sensible (como la presencia de los usuarios). 
+Al requerir que los desarrolladores especifiquen qué eventos quieren recibir, 
+Discord ayuda a proteger la privacidad de los usuarios.
+
+Control: Te permite tener un control más granular sobre el comportamiento de tu bot.
+
