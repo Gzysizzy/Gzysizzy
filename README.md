@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on ... CODE Proyects
 - 📫 How to reach me ... DISCORD: lm6ksixk
 - 😄 Pronouns: ... yo
-- ⚡ Fun fact: ... i'm schizo
